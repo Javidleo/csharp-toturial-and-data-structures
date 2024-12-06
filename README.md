@@ -1,3 +1,8 @@
+## what I want to do? 
+<p>after working on few years as a software developer, I tought with myself that I can share some basics with people who they want to learn.
+and as I used free resources this is also free. in a month or two later, I want to start an offline course with interested people in Shiraz and these topics below will be used as 
+the resources, so I will appreciate to have you help with this repository</p>
+
 ## Phase 1 
 
 ### [Basics of a programming language (C# for now)](https://github.com/Javidleo/csharp-toturial-and-data-structures/blob/master/basics-of-a-programming-language.md)
