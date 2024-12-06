@@ -18,7 +18,7 @@
 - exceptions and exception handling
 - training
 
-### Intermidiate topics 
+### [Intermidiate topics](https://github.com/Javidleo/csharp-toturial-and-data-structures/blob/master/intermediate-topics.md) 
 - basic collection knowledge
 - basic linq
 - enum
