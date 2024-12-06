@@ -8,7 +8,7 @@
 - if-else switch case loops and ...
 - training
 
-### OOP basics and more c# features
+### [OOP basics and more c# features](https://github.com/Javidleo/csharp-toturial-and-data-structures/blob/master/oop-basics-and-more-c%23-features.md)
 - class and object
 - properties
 - methods
