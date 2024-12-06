@@ -1,6 +1,6 @@
 ## Phase 1 
 
-### Basics of a programming language (C# for now)
+### [Basics of a programming language (C# for now)](https://github.com/Javidleo/csharp-toturial-and-data-structures/blob/master/basics-of-a-programming-language.md)
 - variables
 - data types
 - operators
