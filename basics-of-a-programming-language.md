@@ -1,6 +1,6 @@
 ### Topics we cover in this page : 
-- [variables](#variables)
 - [data types](#data-types)
+- [variables](#variables)
 - [operators](#operators)
 - [expressions](#expressions)
 - [if-else](#if-else)
@@ -10,13 +10,13 @@
 
 ---
 
-## Variables 
-<p>what are variables </p>
+## Data-types
+<p>some basic info about data types</p>
 
 ---
 
-## Data-types
-<p>some basic info about data types</p>
+## Variables 
+<p>what are variables </p>
 
 ---
 
